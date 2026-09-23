@@ -18,4 +18,9 @@
 ---
 [![](https://komarev.com/ghpvc/?username=ron562&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🏋️‍♂️ Fitness Planner
+A web-based fitness planning tool to help track workouts and hit health goals.
+- **Live Demo:** [View App](https://ron562.github.io/Fitness--Planner/)
+- **Source Code:** [ron562/Fitness--Planner](https://github.com/ron562/Fitness--Planner)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
